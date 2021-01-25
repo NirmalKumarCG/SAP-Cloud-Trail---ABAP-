@@ -1,7 +1,7 @@
 # SAP-Cloud-Trail-ABAP-
-```Procedural method to create CDS views for your table/tables to implement them as FIORI/UI5 Applications exposing them via OData protocols (UI-V2/UI-V4) using Eclipse ADT tools.```
+Procedural method to create CDS views for your table/tables to implement them as FIORI/UI5 Applications exposing them via OData protocols (UI-V2/UI-V4) using Eclipse ADT tools.
 
-### Steps to Create : 
+## Steps to Create : 
 
 * Creating a Ztable.
 
