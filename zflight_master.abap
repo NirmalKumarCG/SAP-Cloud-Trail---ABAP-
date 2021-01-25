@@ -15,3 +15,4 @@ define table zflight_master {
   seats_max         : /dmo/plane_seats_max;
   seats_occupied    : /dmo/plane_seats_occupied;
 }
+  
